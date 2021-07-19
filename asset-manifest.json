@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/HollywoodMovies-App/static/css/main.a0d7b9f2.chunk.css",
+    "main.js": "/HollywoodMovies-App/static/js/main.c22d01fe.chunk.js",
+    "main.js.map": "/HollywoodMovies-App/static/js/main.c22d01fe.chunk.js.map",
+    "runtime-main.js": "/HollywoodMovies-App/static/js/runtime-main.d444f402.js",
+    "runtime-main.js.map": "/HollywoodMovies-App/static/js/runtime-main.d444f402.js.map",
+    "static/css/2.4be38407.chunk.css": "/HollywoodMovies-App/static/css/2.4be38407.chunk.css",
+    "static/js/2.af5d0ddf.chunk.js": "/HollywoodMovies-App/static/js/2.af5d0ddf.chunk.js",
+    "static/js/2.af5d0ddf.chunk.js.map": "/HollywoodMovies-App/static/js/2.af5d0ddf.chunk.js.map",
+    "static/js/3.28d00444.chunk.js": "/HollywoodMovies-App/static/js/3.28d00444.chunk.js",
+    "static/js/3.28d00444.chunk.js.map": "/HollywoodMovies-App/static/js/3.28d00444.chunk.js.map",
+    "index.html": "/HollywoodMovies-App/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/HollywoodMovies-App/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.a0d7b9f2.chunk.css.map": "/HollywoodMovies-App/static/css/main.a0d7b9f2.chunk.css.map",
+    "static/js/2.af5d0ddf.chunk.js.LICENSE.txt": "/HollywoodMovies-App/static/js/2.af5d0ddf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d444f402.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.af5d0ddf.chunk.js",
+    "static/css/main.a0d7b9f2.chunk.css",
+    "static/js/main.c22d01fe.chunk.js"
+  ]
+}
